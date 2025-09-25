@@ -1,12 +1,7 @@
+import React from "react";
 
+const Footer = () => {
+  return <footer>© 2025 MyApp. Tutti i diritti riservati.</footer>;
+};
 
-const Footer = () =>{
-return(
-    <footer>
-     <p>Copy by My React APP</p>  
-    </footer>
-)
-
-}
-
-export default Footer
+export default Footer;
