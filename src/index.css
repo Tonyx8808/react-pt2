@@ -1,5 +1,13 @@
+
 nav {
   display: flex;
   gap: 20px;
   padding: 30px;
+}
+
+footer {
+  display: flex;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
 }
